@@ -1,0 +1,71 @@
+{
+  "flights": [
+    {
+      "destination": "Tokyo, Japan",
+      "duration": 9,
+      "cost": 1100,
+      "class": "Economy"
+    },
+    {
+      "destination": "San Francisco, CA, USA",
+      "duration": 16,
+      "cost": 2600,
+      "class": "Economy"
+    },
+    {
+      "destination": "Madrid, Spain",
+      "duration": 10,
+      "cost": 7600,
+      "class": "First Class"
+    },
+    {
+      "destination": "Delhi, India",
+      "duration": 4,
+      "cost": 1000,
+      "class": "First Class"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "MGM Grand",
+      "location": "Las Vegas, Nevada, USA",
+      "cost": 700,
+      "facilities": [
+        "TV",
+        "Swimming Pool",
+        "WiFi",
+        "Jaccuzzi",
+        "Resurant",
+        "Game Room",
+        "+18 More"
+      ]
+    },
+    {
+      "name": "Pearless Inn",
+      "location": "Durgapur, WB, USA",
+      "cost": 90,
+      "facilities": [
+        "TV",
+        "Swimming Pool",
+        "WiFi",
+        "Resurant",
+        "Banquet Hall",
+        "+1 More"
+      ]
+    },
+    {
+      "name": "こにちわ",
+      "location": "Osaka, Roppongi Perfecture, Japan",
+      "cost": 150,
+      "facilities": [
+        "TV",
+        "Swimming Pool",
+        "WiFi",
+        "Entertainment Hub",
+        "Console Sector",
+        "Hot Baths",
+        "+9 More"
+      ]
+    }
+  ]
+}

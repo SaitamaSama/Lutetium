@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="CSS/Stylesheet.css" rel="stylesheet">
+    <title>Lutetium</title>
+</head>
+<body>
+<header>
+    <section class="brand">
+        <img src="Images/web_hi_res_512.png" class="logo" />
+        Lutetium
+    </section>
+    <input class="search-bar" placeholder="Search for flights, tours, cabs... For example, start typing 'de'" data-search />
+    <section class="details">
+        <section class="welcome">
+            <img src="Images/Saitama_serious_profile.png" class="avatar">
+        </section>
+        <section class="drop-down" data-drop-down>
+            <section>
+                <div class="dot"></div>
+                <div class="dot"></div>
+                <div class="dot"></div>
+            </section>
+            <section class="drop-down-content" data-drop-down="content">
+                <section class="profile-div">
+                    <section class="details">
+                        <img class="avatar" src="Images/Saitama_serious_profile.png" />
+                        <section class="username">
+                            Saitama
+                        </section>
+                    </section>
+                    <section class="right-button">
+                        <button class="btn flat">Logout</button>
+                    </section>
+                </section>
+                <section class="links">
+                  <div class="link" data-internal-route="/home">Home</div>
+                  <div class="link" data-internal-route="/Flights/all">All Flights</div>
+                  <div class="link" data-internal-route="/Hotels/all">All Hotels</div>
+                </section>
+            </section>
+        </section>
+    </section>
+</header>
+<main class="content" data-content-holder>
+</main>
+<footer>
+    <h1 class="title">Lutetium &trade;</h1>
+    <h2 class="subtitle">All Copyrights Reserved, 2017</h2>
+    <section class="links">
+        <div class="link">Refund Policy</div>
+        <div class="link">Refund Policy</div>
+        <div class="link">Data Storage</div>
+        <div class="link">About</div>
+    </section>
+</footer>
+<script src="JS/init.js"></script>
+<script src="JS/NavigatorClasses/Hotels.js"></script>
+<script src="JS/NavigatorClasses/Flights.js"></script>
+<script src="JS/SearchHandler.js"></script>
+<script src="JS/ButtonHandlers.js"></script>
+<script src="JS/PageHandler.js"></script>
+<script src="JS/PageNavigator.js"></script>
+<script src="JS/Script.js"></script>
+</body>
+</html>

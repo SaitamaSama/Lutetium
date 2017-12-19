@@ -1,0 +1,26 @@
+[
+  {
+    "destination": "Tokyo, Japan",
+    "duration": 9,
+    "cost": 1100,
+    "class": "Economy"
+  },
+  {
+    "destination": "San Francisco, CA, USA",
+    "duration": 16,
+    "cost": 2600,
+    "class": "Economy"
+  },
+  {
+    "destination": "Madrid, Spain",
+    "duration": 10,
+    "cost": 7600,
+    "class": "First Class"
+  },
+  {
+    "destination": "Delhi, India",
+    "duration": 4,
+    "cost": 1000,
+    "class": "First Class"
+  }
+]

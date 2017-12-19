@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 400;
+    src: url(../Fonts/FiraSans-Regular.otf) format("opentype");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 500;
+    src: url(../Fonts/FiraSans-Medium.otf) format("opentype");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 300;
+    src: url(../Fonts/FiraSans-Light.otf) format("opentype");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 100;
+    src: url(../Fonts/FiraSans-Thin.otf) format("opentype");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 700;
+    src: url(../Fonts/FiraSans-Bold.otf) format("opentype");
+}
+@font-face {
+    font-family: "Fira Sans";
+    font-weight: 900;
+    src: url(../Fonts/FiraSans-Ultra.otf) format("opentype");
+}
+@font-face {
+    font-family: "Material Icons";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../Fonts/MaterialIcons-Regular.ttf) format("truetype");
+}

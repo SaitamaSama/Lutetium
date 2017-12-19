@@ -1,0 +1,43 @@
+[
+  {
+    "name": "MGM Grand",
+    "location": "Las Vegas, Nevada, USA",
+    "cost": 700,
+    "facilities": [
+      "TV",
+      "Swimming Pool",
+      "WiFi",
+      "Jaccuzzi",
+      "Resurant",
+      "Game Room",
+      "+18 More"
+    ]
+  },
+  {
+    "name": "Pearless Inn",
+    "location": "Durgapur, WB, USA",
+    "cost": 90,
+    "facilities": [
+      "TV",
+      "Swimming Pool",
+      "WiFi",
+      "Resurant",
+      "Banquet Hall",
+      "+1 More"
+    ]
+  },
+  {
+    "name": "こにちわ",
+    "location": "Osaka, Roppongi Perfecture, Japan",
+    "cost": 150,
+    "facilities": [
+      "TV",
+      "Swimming Pool",
+      "WiFi",
+      "Entertainment Hub",
+      "Console Sector",
+      "Hot Baths",
+      "+9 More"
+    ]
+  }
+]
